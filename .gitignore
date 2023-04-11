@@ -1,0 +1,3 @@
+Pipfile*
+.pytest_cache
+*.pyc
